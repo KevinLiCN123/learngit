@@ -9,3 +9,5 @@ Creating a new branch is quick and quick.
 Now merge with no fast-forward.
 
 Fixing BUG001.
+
+活干完了.
