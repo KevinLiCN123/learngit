@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 Creating a new branch is quick and quick.
 
-merge with fast-forward
+Now merge with no fast-forward.
