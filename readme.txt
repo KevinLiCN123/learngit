@@ -11,3 +11,6 @@ Now merge with no fast-forward.
 Fixing BUG001.
 
 活干完了.
+
+
+New feature已经被删掉。
