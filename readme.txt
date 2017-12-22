@@ -7,3 +7,6 @@ Git tracks changes of files.
 Creating a new branch is quick and quick.
 
 Now merge with no fast-forward.
+
+
+活干完了.
