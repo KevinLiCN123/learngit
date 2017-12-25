@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
@@ -16,4 +16,4 @@ Fixing BUG001.
 New feature已经被删掉。
 
 
-Change under E.
+我在dev上的修改...
