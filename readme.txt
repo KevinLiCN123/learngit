@@ -16,4 +16,8 @@ Fixing BUG001.
 New feature已经被删掉。
 
 
-我在dev上的修改...
+ 
+我在dev上的修改
++
+小伙伴在dev上的修改
+ 
